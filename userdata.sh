@@ -3,7 +3,7 @@ apt-get update -y
 apt-get install git -y
 apt-get install python3 -y
 cd /home/ubuntu/
-TOKEN="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"
+TOKEN="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 git clone https://$TOKEN@github.com/ibrahim-ozbek/deneme-project.git
 cd /home/ubuntu/deneme-project
 apt install python3-pip -y
